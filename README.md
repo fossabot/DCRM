@@ -565,6 +565,7 @@ PayPal receipt is valid proof of purchase of DCRM licence.
 **SINGLE: Use DCRM in one commercial project**
 
 [![paypal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=772TAEU53AXFY)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F7to328%2FDCRM.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F7to328%2FDCRM?ref=badge_shield)
 
 **UNLIMITED: Use DCRM in unlimited commercial projects**
 
@@ -584,3 +585,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F7to328%2FDCRM.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F7to328%2FDCRM?ref=badge_large)
